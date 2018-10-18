@@ -20,7 +20,7 @@ console.error("YIKES");
 // Info
 console.info("Fix me");
 // Testing
-console.assert("1==2");
+console.assert();
 // clearing
 
 // Viewing DOM Elements
@@ -28,5 +28,4 @@ console.assert("1==2");
 // Grouping together
 
 // counting
-
 // timing
